@@ -3,12 +3,7 @@ TITLE: ﻿THE VANISHING FOLD Book One: The Kinnaur Drift
 AUTHOR: Fractured Cynicism
 ════════════════════════════════
 
-A Novella
-
-
-by Fractured Cynicism
 CHAPTER ONE
-
 
 The wreck smelled like burnt rubber and fractured dreams.
 Ishaan Verma stood at the crash site at midnight, eyes closed, listening to the dark. The Maruti Suzuki had wrapped itself around a concrete retaining wall like something trying to disappear into stone. The metal was still warm. The glass was still settling.
@@ -31,7 +26,6 @@ Behind them, the forensic team was setting up equipment. The vehicle would be ph
 But there was a dhaba two kilometers up the road, on the hairpin turn. A place where trucks stopped at night. A place where a driver might have been pulled over. A place where a girl might have walked, soaked from snow, asking for water and safety and time to think.
 A place where a truck driver might have been waiting.
 CHAPTER TWO
-
 
 The dhaba owner's name was Pemba.
 He was seventy, maybe older. His hands moved constantly, even when he was trying to keep them still. He poured chai without being asked, set it in front of Ishaan with a gesture that meant something between hospitality and apology.
@@ -63,7 +57,6 @@ Ishaan was quiet for a long moment. He listened to Pemba's breathing—normal, a
 "No. But I saw her hands. They were shaking. And I saw her eyes. She had been crying for a long time. Not recently. For hours, maybe days. The kind of crying that exhausts the mechanism and leaves the eyes empty even after the tears stop."
 CHAPTER THREE
 
-
 The receipt was in the glove compartment, tucked under a maintenance manual.
 SHOP-KART RETAIL, KINNAUR
 October 23, 2024, 19:47
@@ -94,7 +87,6 @@ What they wouldn't do is ask why a teenage nursing student from Delhi was readin
 What they wouldn't do is ask what she was running from.
 CHAPTER FOUR
 
-
 The mechanic lived in a house on the outskirts of Kaza, twenty kilometers from the crash site.
 The house was cinder block, painted yellow a decade ago when the paint had been functional. Now it peeled like skin after a burn.
 Ishaan didn't announce himself. The police hadn't sealed the property, which meant the investigation had moved on or had been redirected. The house was technically a crime scene but was being treated like an abandoned structure.
@@ -114,7 +106,6 @@ Ishaan was interested in something else. He was interested in how a girl from De
 He was interested in what her sister had told her about trucks.
 And he was interested in where the girl had gone after the crash, when she'd refused the bus driver's offer of shelter and had asked to be directed to a shrine that existed only as a marker on a mountain pass.
 CHAPTER FIVE
-
 
 The shepherd who brought the backpack to the police station was anonymous.
 He left it at the front desk and disappeared. By the time the station officer had decided it might be relevant, the shepherd was gone, disappeared back into the mountain terrain like the backpack itself had arrived through some mechanism beyond standard investigation.
@@ -144,7 +135,6 @@ And somewhere in South Goa, at a resort called The Twilight Estate, there was a 
 A location where people went to disappear and never came back.
 CHAPTER SIX
 
-
 Ishaan's reassignment to Delhi came through on November 1st.
 The official reason cited was "administrative restructuring" and "centralized missing person database consolidation." What it meant was that his investigation into Meera Sharma's disappearance had become inconvenient. What it meant was that someone with authority over police assignments across multiple states had decided that Ishaan needed to be relocated.
 He didn't file objections. He didn't protest the transfer. What he did was book a flight south.
@@ -162,3 +152,4 @@ He would walk into the structure that someone had designed.
 He would begin to understand how people disappeared in this country when geography was weaponized and institutional authority was distributed across enough nodes that investigation became impossible.
 He would meet the Fixer.
 But first, he would need to understand what had happened in a luxury resort where a three-year-old child had vanished during the monsoon season while her parents dined fifty meters away.
+
